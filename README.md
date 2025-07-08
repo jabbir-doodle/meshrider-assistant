@@ -38,3 +38,4 @@ Hover over any diagnostic button to see the exact commands that will be executed
 - Professional dark theme
 
 Built with ❤️ for MeshRider radio diagnostics.
+# meshrider-assistant
